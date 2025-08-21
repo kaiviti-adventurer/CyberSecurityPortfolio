@@ -16,4 +16,4 @@ Each of the different folders will have:
 
 ## Table of Contents
 ### Cyber Fundamentals
-- [Cyber 101: Information Security](/Cyber_Fundamentals/Cyber101-InformationSecurity)
+- [Cyber 101: Information Security](https://www.kaiviti-cloud-solutions.co.uk/post/information-security)
