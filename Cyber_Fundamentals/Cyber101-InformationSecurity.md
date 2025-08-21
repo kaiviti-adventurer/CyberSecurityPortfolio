@@ -62,4 +62,4 @@ Information security isn’t just a technical checkbox — it’s the backbone o
 
 As we move forward, we’ll dive deeper into real-world attack scenarios, explore modern security frameworks, and share practical tips for building a security-first culture. Stay tuned — your journey into InfoSec mastery is just getting started.
 
-Link to blog [Information Security]()
+Link to blog [Information Security](https://www.kaiviti-cloud-solutions.co.uk/post/information-security)
